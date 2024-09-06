@@ -12,7 +12,7 @@ function odd() {
 };
 
 function even() {
-    while (b <= 101) {
+    while (b <= 100) {
         element.innerHTML += b + "<br>";
         b++;
         b++;
